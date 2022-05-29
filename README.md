@@ -1,1 +1,1 @@
-# School-Management-Android-App-project-with-Java
+# SchoolManagement Android App project with Java
